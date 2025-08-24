@@ -17,7 +17,7 @@ const Header = () => {
           href="https://docs.google.com/forms/d/e/1FAIpQLSevj_mXGsGO4F0A84zAMGZ5RcJez1tQ0BqTSE_GnNuk6OcVGQ/alreadyresponded"
           className="inline-block bg-yellow-300 text-blue-900 font-bold px-8 py-4 rounded-xl shadow-lg hover:bg-yellow-400 hover:shadow-xl transition transform hover:-translate-y-1"
         >
-           ลงทะเบียนรับสิทธิ์ตอนนี้
+           ลงทะเบียนรับสิทธิ์ตอนนี้ eieiอิอิ
         </a>
       </div>
     </header>
