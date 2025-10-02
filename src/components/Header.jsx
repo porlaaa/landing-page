@@ -2,7 +2,7 @@ import React from "react";
 
 const Header = () => {
   return (
-    <header className="relative bg-gradient-to-r from-blue-600 via-blue-600 to-blue-600 text-white py-24 text-center overflow-hidden">
+    <header className="relative bg-gradient-to-r from-gray-800 via-gray-800 to-gray-800 text-white py-24 text-center overflow-hidden">
       {/* Background Overlay */}
       <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1523050854058-8df90110c9f1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80')] bg-cover bg-center opacity-20"></div>
       
